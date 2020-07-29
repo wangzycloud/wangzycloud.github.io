@@ -3,25 +3,6 @@ layout: page
 title: 关于
 permalink: /about/
 ---
-有空了会把这个栏目做成简历，接下来一段时间陆续上传关于机器学习、面试找工作的文档资料。  
-  
+有空了会把这个栏目做成简历，接下来一段时间陆续上传关于机器学习、面试找工作的文档资料。    
+Life was like a box of chocolates, you never know what you’re gonna get.  
 ![Image](https://s1.ax1x.com/2020/07/24/UXLEdO.md.jpg)
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-
-莫听穿林打叶声，  
-何妨吟啸且徐行。  
-竹杖芒鞋轻胜马，  
-谁怕？一蓑烟雨任平生。  
-料峭春风吹酒醒，  
-微冷，山头斜照却相迎。  
-回首向来萧瑟处，归去，也无风雨也无晴。    

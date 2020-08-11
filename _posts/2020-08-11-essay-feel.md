@@ -6,7 +6,6 @@ Author: wangzongyu
 tags: [随笔]
 comments: true
 ---
-# 只恐双溪舴艋舟，载不动许多愁。
 
 巨大的心情需要巨大的出口，只怕这孱弱的扁舟，承载不了这么多的苦。
 

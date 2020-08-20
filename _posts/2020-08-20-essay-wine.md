@@ -1,4 +1,11 @@
-# 我有一壶酒，足以慰风尘。
+---
+layout: post
+title: 我有一壶酒，足以慰风尘
+date: 2020-08-20
+Author: wangzongyu 
+tags: [随笔]
+comments: true
+---
 
 苹果市值今天突破两万亿美元了，美股史上第一家两万亿美元公司。
 
